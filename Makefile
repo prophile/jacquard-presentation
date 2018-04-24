@@ -3,7 +3,7 @@ ALL=jacquard.html
 all: $(ALL)
 
 jacquard.html: jacquard.md Makefile
-	pandoc --from=markdown_github+yaml_metadata_block --to=revealjs --standalone -o "$@" "$<"
+	pandoc --from=markdown_github+yaml_metadata_block --to=revealjs --standalone -o "$@" "$<" -V theme=league
 
 clean:
 	rm -rf $(ALL)

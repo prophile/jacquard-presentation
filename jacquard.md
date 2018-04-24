@@ -3,5 +3,86 @@ title: A/B Testing with Style
 author: Alistair Lynn
 ---
 
-jacquard
-========
+Who?
+====
+
+Thread
+------
+
+What?
+=====
+
+Randomized Control Trials
+-------------------------
+
+But with a rebrand.
+
+Optimize this CTA
+-----------------
+
+![cta-control][cta-control]
+![cta-test1][cta-test1]
+![cta-test2][cta-test2]
+![cta-test3][cta-test3]
+
+Why?
+====
+
+€€€
+---
+
+It improves your bottom line.
+
+Understand your users
+---------------------
+
+How do people behave in aggregate?
+
+How?
+====
+
+Our Old Way
+-----------
+
+### Use a model
+
+![a-model][test-model]
+
+Our Old Way
+-----------
+
+### Use an enum
+
+![an-enum][test-enum]
+
+Our Old Way
+-----------
+
+![some-processing][test-process-trials]
+
+Our New Way
+-----------
+
+The Bayesian Way
+----------------
+
+Risks
+=====
+
+Invalidation
+------------
+
+Bias
+----
+
+Ethics
+------
+
+[cta-control]: assets/why/cta_control.png
+[cta-test1]: assets/why/cta_test1.png
+[cta-test2]: assets/why/cta_test2.png
+[cta-test3]: assets/why/cta_test3.png
+
+[test-model]: assets/how/model.png
+[test-enum]: assets/how/enum.png
+[test-process-trials]: assets/how/process_trials.png

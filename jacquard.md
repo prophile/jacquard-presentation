@@ -83,6 +83,11 @@ The Bayesian Way
 * Compute posteriors for each branch
 * Compute M<sub>test</sub> - M<sub>control</sub>
 
+No decision rule
+----------------
+
+[Easy Evaluation of Decision Rules in Bayesian A/B testing][stucchio]
+
 The Bayesian Report
 -------------------
 
@@ -102,11 +107,6 @@ The Bayesian Report
 -------------------
 
 ![Posteriors][bayes-post]
-
-No decision rule
-----------------
-
-[Easy Evaluation of Decision Rules in Bayesian A/B testing][stucchio]
 
 Risks
 =====

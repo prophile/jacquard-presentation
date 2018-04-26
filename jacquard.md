@@ -86,6 +86,10 @@ Bias
 Ethics
 ------
 
+We are experimenting on humans
+
+Are you comfortable with that?
+
 [cta-control]: assets/why/cta_control.png
 [cta-test1]: assets/why/cta_test1.png
 [cta-test2]: assets/why/cta_test2.png

@@ -41,6 +41,14 @@ How do people behave in aggregate?
 How?
 ====
 
+Desiderata
+----------
+
+* n% of users see control
+* n% of users see test
+* Each user sees the same each time
+* Don't blow the page budget
+
 Our Old Way
 -----------
 

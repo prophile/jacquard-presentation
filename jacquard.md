@@ -111,9 +111,6 @@ The Bayesian Report
 Risks
 =====
 
-Invalidation
-------------
-
 Bias
 ----
 

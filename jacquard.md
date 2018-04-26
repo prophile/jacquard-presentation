@@ -74,6 +74,13 @@ Our New Way
 The Bayesian Way
 ----------------
 
+* Set priors on your metrics
+* Compute posteriors for each branch
+* Compute M<sub>test</sub> - M<sub>control</sub>
+
+No decision rule
+----------------
+
 Risks
 =====
 

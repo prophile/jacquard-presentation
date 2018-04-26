@@ -127,4 +127,4 @@ Are you comfortable with that?
 [bayes-change]: assets/how/bayes_changebox.png
 [bayes-sample]: assets/how/bayes_samplebox.png
 [bayes-cdf]: assets/how/bayes_changecdf.png
-[bayes-post]: assets/how/bayes_posteriors.png
+[bayes-post]: assets/how/bayes_posteriors_small.png

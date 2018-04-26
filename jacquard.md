@@ -123,3 +123,8 @@ Are you comfortable with that?
 [test-model]: assets/how/model.png
 [test-enum]: assets/how/enum.png
 [test-process-trials]: assets/how/process_trials.png
+
+[bayes-change]: assets/how/bayes_changebox.png
+[bayes-sample]: assets/how/bayes_samplebox.png
+[bayes-cdf]: assets/how/bayes_changecdf.png
+[bayes-post]: assets/how/bayes_posteriors.png

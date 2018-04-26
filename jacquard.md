@@ -101,6 +101,8 @@ The Bayesian Report
 No decision rule
 ----------------
 
+[Easy Evaluation of Decision Rules in Bayesian A/B testing][stucchio]
+
 Risks
 =====
 
@@ -148,3 +150,5 @@ Are you comfortable with that?
 [bayes-sample]: assets/how/bayes_samplebox.png
 [bayes-cdf]: assets/how/bayes_changecdf_small.png
 [bayes-post]: assets/how/bayes_posteriors_small.png
+
+[stucchio]: https://www.chrisstucchio.com/blog/2014/bayesian_ab_decision_rule.html

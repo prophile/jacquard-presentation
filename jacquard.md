@@ -9,6 +9,11 @@ Who?
 Thread
 ------
 
+![Thread][thread-lp]
+
+We are hiring!
+--------------
+
 What?
 =====
 
@@ -136,6 +141,8 @@ Ethics
 We are experimenting on humans
 
 Are you comfortable with that?
+
+[thread-lp]: assets/who/thread_lp.png
 
 [cta-control]: assets/why/cta_control.png
 [cta-test1]: assets/why/cta_test1.png

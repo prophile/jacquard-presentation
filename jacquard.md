@@ -83,6 +83,24 @@ Invalidation
 Bias
 ----
 
+### Confirmation bias
+
+Bias
+----
+
+### Confirmation bias
+
+### Survivorship bias
+
+Bias
+----
+
+### Confirmation bias
+
+### Survivorship bias
+
+### Inertia
+
 Ethics
 ------
 

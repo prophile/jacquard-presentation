@@ -78,6 +78,26 @@ The Bayesian Way
 * Compute posteriors for each branch
 * Compute M<sub>test</sub> - M<sub>control</sub>
 
+The Bayesian Report
+-------------------
+
+![Change][bayes-change]
+
+The Bayesian Report
+-------------------
+
+![Sample][bayes-sample]
+
+The Bayesian Report
+-------------------
+
+![CDF][bayes-cdf]
+
+The Bayesian Report
+-------------------
+
+![Posteriors][bayes-post]
+
 No decision rule
 ----------------
 
@@ -126,5 +146,5 @@ Are you comfortable with that?
 
 [bayes-change]: assets/how/bayes_changebox.png
 [bayes-sample]: assets/how/bayes_samplebox.png
-[bayes-cdf]: assets/how/bayes_changecdf.png
+[bayes-cdf]: assets/how/bayes_changecdf_small.png
 [bayes-post]: assets/how/bayes_posteriors_small.png

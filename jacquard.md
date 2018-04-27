@@ -76,6 +76,9 @@ Our Old Way
 Our New Way
 -----------
 
+Demo
+----
+
 The Bayesian Way
 ----------------
 

@@ -76,6 +76,10 @@ Our Old Way
 Our New Way
 -----------
 
+* Hash people into bins (“buckets”)
+* Assign treatments to buckets not people
+* Farm this out to a separate service
+
 Demo
 ----
 

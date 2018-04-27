@@ -79,9 +79,9 @@ Our New Way
 The Bayesian Way
 ----------------
 
-* Set priors on your metrics
-* Compute posteriors for each branch
-* Compute M<sub>test</sub> - M<sub>control</sub>
+* Set prior for your metric: X<sub>prior</sub>
+* Compute posteriors: X<sub>control</sub> and X<sub>test</sub>
+* Compute X<sub>test</sub> - X<sub>control</sub>
 
 No decision rule
 ----------------

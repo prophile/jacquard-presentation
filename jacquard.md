@@ -80,6 +80,18 @@ Our New Way
 * Assign treatments to buckets not people
 * Farm this out to a separate service
 
+Our New Way
+-----------
+
+| Condition    | Old | New |
+| ------------ | --- | --- |
+| Fair split   | ✅   | ✅   |
+| Repeatable   | ✅   | ✅   |
+| Space needed | Θ(n) | Θ(1) |
+| No inserts   | ❌   | ✅   |
+| Fast         | ❌   | ✅   |
+| Maintainable | ❌   | ✅   |
+
 Demo
 ----
 

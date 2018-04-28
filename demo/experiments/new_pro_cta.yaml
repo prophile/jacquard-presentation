@@ -1,0 +1,10 @@
+id: new_pro_cta
+name: Try new pro CTA "Sign up" over "Get started"
+branches:
+  - id: control
+    settings:
+      lp_pro_cta: Get started
+  - id: test
+    settings:
+      lp_pro_cta: Sign up
+
